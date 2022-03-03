@@ -11,8 +11,9 @@ i'm a developer, not a regular one
 
 # frameworks
 
-{ now } react, svelte
-{ old days } ruby on rails
+{ now } react, svelte, expo, electron, NWjs
+
+{ old days } ruby on rails, ruby motion
 
 
 # database
@@ -24,9 +25,16 @@ i'm a developer, not a regular one
 
 # speciallity
 
-{ now } frontend, API design, technical creativity, design 
+{ now } mobile application developer, frontend, API design, technical creativity, design 
+
 { old days } code animation, game developer, advertising developer
 
+
+# tools
+
+{ now } node scripting, bash scripting (zx), vscode, sketch, balsamiq mockups, iTerm
+
+{ old days } flash, photoshop, after effects, premiere, xcode
 
 # language
 
