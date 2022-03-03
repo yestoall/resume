@@ -1,4 +1,5 @@
-# nacho rapallo resume
+# nacho rapallo resume
+
 
 # programming 
 
@@ -6,13 +7,20 @@
 
 { old days } ruby, actionscript, c/c++, delphi/pascal, visual basic, basic, assembler (z80/8088)
 
+
 # database
-## firestore, couchDB/pouchDB, SQLlite
-Mongo, Postgres, MySQL, SQLserver, DBase2
+
+{ now } firestore, couchDB/pouchDB
+
+{ old days} MongoDB, Postgres, SQLlite/MySQL, SQLserver, DBase2
+
 
 # speciallity
-## frontend, API design, technical creativity, design 
-code animation, game developer, advertising developer
+
+{ now } frontend, API design, technical creativity, design 
+{ old days } code animation, game developer, advertising developer
+
 
 # language
+
 spanish & english
