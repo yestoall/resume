@@ -9,7 +9,7 @@ i solve problems with creativity and craft digital solutions
 
 { now } mobile application developer, frontend, API design, scrapping, design
 
-{ old days } code animation, game developer, advertising developer
+{ old days } code animation, game developer, creative director
 
 
 # programming 
