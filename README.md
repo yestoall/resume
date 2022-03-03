@@ -20,12 +20,12 @@ i'm a developer, not a regular one
 
 { now } firestore, couchDB/pouchDB
 
-{ old days } MongoDB, PostgreSQL, SQLlite/MySQL, SQLserver, DBase2
+{ old days } MongoDB, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
 
 
 # speciality
 
-{ now } mobile application developer, frontend, API design, technical creativity, design 
+{ now } mobile application developer, frontend, API design, design, ideas
 
 { old days } code animation, game developer, advertising developer
 
