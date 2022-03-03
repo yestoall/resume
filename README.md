@@ -1,9 +1,10 @@
 # resume
 nacho rapallo resume
 
-#programming
+# programming 
 
-#database
+# database
 
-#language
+# language
+## spoken
 spanish & english
