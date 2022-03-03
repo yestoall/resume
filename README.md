@@ -1,7 +1,9 @@
 # nacho rapallo resume
 
 # programming 
+
 { now } javascript, node, php
+
 { old days } ruby, actionscript, c/c++, delphi/pascal, visual basic, basic, assembler (z80/8088)
 
 # database
