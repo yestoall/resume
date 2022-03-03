@@ -20,7 +20,7 @@ i'm a developer, not a regular one
 
 { now } firestore, couchDB/pouchDB
 
-{ old days } MongoDB, Postgres, SQLlite/MySQL, SQLserver, DBase2
+{ old days } MongoDB, PostgreSQL, SQLlite/MySQL, SQLserver, DBase2
 
 
 # speciality
