@@ -4,6 +4,14 @@ i'm a developer, not a regular one
 
 i solve problems with creativity and craft digital solutions
 
+
+# speciality
+
+{ now } mobile application developer, frontend, API design, scrapping, design, ideas
+
+{ old days } code animation, game developer, advertising developer
+
+
 # programming 
 
 { now } javascript, node, php
@@ -23,13 +31,6 @@ i solve problems with creativity and craft digital solutions
 { now } firestore, couchDB/pouchDB
 
 { old days } MongoDB, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
-
-
-# speciality
-
-{ now } mobile application developer, frontend, API design, scrapping, design, ideas
-
-{ old days } code animation, game developer, advertising developer
 
 
 # tools
