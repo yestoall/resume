@@ -16,14 +16,14 @@ i'm a developer, not a regular one
 { old days } ruby on rails, ruby motion
 
 
-# database
+# databases
 
 { now } firestore, couchDB/pouchDB
 
 { old days } MongoDB, Postgres, SQLlite/MySQL, SQLserver, DBase2
 
 
-# speciallity
+# speciality
 
 { now } mobile application developer, frontend, API design, technical creativity, design 
 
