@@ -2,6 +2,8 @@
 
 i'm a developer, not a regular one
 
+i solve problems with creativity and craft digital solutions
+
 # programming 
 
 { now } javascript, node, php
@@ -25,7 +27,7 @@ i'm a developer, not a regular one
 
 # speciality
 
-{ now } mobile application developer, frontend, API design, design, ideas
+{ now } mobile application developer, frontend, API design, scrapping, design, ideas
 
 { old days } code animation, game developer, advertising developer
 
