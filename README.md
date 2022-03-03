@@ -7,7 +7,7 @@ i solve problems with creativity and craft digital solutions
 
 # speciality
 
-{ now } mobile application developer, frontend, API design, scrapping, design, ideas
+{ now } mobile application developer, frontend, API design, scrapping, design
 
 { old days } code animation, game developer, advertising developer
 
