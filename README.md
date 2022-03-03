@@ -1,11 +1,18 @@
-# nacho rapallo resume
+# i'm nacho rapallo
 
+i'm a developer, not a regular one
 
 # programming 
 
 { now } javascript, node, php
 
 { old days } ruby, actionscript, c/c++, delphi/pascal, visual basic, basic, assembler (z80/8088)
+
+
+# frameworks
+
+{ now } react, svelte
+{ old days } ruby on rails
 
 
 # database
