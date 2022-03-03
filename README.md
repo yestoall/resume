@@ -23,7 +23,7 @@ i solve problems with creativity and craft digital solutions
 
 { now } react, svelte, expo, electron, NW.js, firebase
 
-{ old days } ruby on rails, ruby motion
+{ old days } ruby on rails, ruby motion, angular, jquery
 
 
 # databases
