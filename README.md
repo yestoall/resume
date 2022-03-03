@@ -21,7 +21,7 @@ i solve problems with creativity and craft digital solutions
 
 # frameworks (and similar)
 
-{ now } react, svelte, expo, electron, NWjs, firebase
+{ now } react, svelte, expo, electron, NW.js, firebase
 
 { old days } ruby on rails, ruby motion
 
