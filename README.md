@@ -1,8 +1,8 @@
 # nacho rapallo resume
 
 # programming 
-## javascript, node, php
-ruby, actionscript, c/c++, delphi/pascal, visual basic, basic, assembler (z80/8088)
+{ now } javascript, node, php
+{ old days } ruby, actionscript, c/c++, delphi/pascal, visual basic, basic, assembler (z80/8088)
 
 # database
 ## firestore, couchDB/pouchDB, SQLlite
