@@ -28,9 +28,9 @@ i solve problems with creativity and craft digital solutions
 
 # databases
 
-{ now } firestore, couchDB/pouchDB
+{ now } firestore, couchDB/pouchDB, algolia
 
-{ old days } MongoDB, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
+{ old days } MongoDB, elasticsearch, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
 
 
 # tools
