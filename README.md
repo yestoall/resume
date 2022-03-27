@@ -21,7 +21,7 @@ i solve problems with creativity and craft digital solutions
 
 # frameworks (and similar)
 
-{ now } react, svelte, nextJS, firebase, expo, electron, NW.js
+{ now } react, svelte, nextJS, firebase, graphQL, expo, electron, NW.js
 
 { old days } ruby on rails, ruby motion, angular, jquery
 
