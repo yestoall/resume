@@ -35,7 +35,7 @@ i solve problems with creativity and craft digital solutions
 
 # tools
 
-{ now } node scripting, bash scripting (zx), vscode, sketch, balsamiq mockups, iTerm
+{ now } node scripting, bash scripting (zx), scrapping (puppeteer), vscode, sketch, balsamiq mockups, iTerm
 
 { old days } flash, photoshop, after effects, premiere, xcode
 
