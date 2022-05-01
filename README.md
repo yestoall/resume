@@ -42,7 +42,7 @@
 
 # databases
 
-{ now } firestore, couchDB/pouchDB, algolia
+{ now } firestore, couchDB/pouchDB, algolia, graphQL
 
 { old days } MongoDB, elasticsearch, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
 
