@@ -6,9 +6,9 @@
 
 ### Me siento identificado con la definición original de la palabra [Hacker](https://es.wikipedia.org/wiki/Hacker): persona que disfruta con la exploración de los detalles de los sistemas programables y cómo aprovechar sus posibilidades, al contrario de aquellos que prefieren aprender solo lo imprescindible.
 
-### Llevo más de 20 años programando en Javascript casi todos sus sabores: *Vanilla JS*, *ActionScript*, *CoffeeScript* y ahora *Typescript*.
+### Llevo más de 20 años programando en Javascript casi todos sus sabores: [Vanilla JS](http://vanilla-js.com), [ActionScript](https://es.wikipedia.org/wiki/ActionScript), [CoffeeScript](https://coffeescript.org) y ahora [Typescript](https://www.typescriptlang.org).
 
-### He pasado por [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) y ahora [React/Redux/Next] o [Svelte].
+### He pasado por [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) y ahora [React]()/[Redux]()/[Next]() o [Svelte](https://svelte.dev).
 
 ### También hago aplicaciones móviles con [React Native] y [expo]. Y aplicaciones de escritorio con [NW.js] o [Electron].
 
