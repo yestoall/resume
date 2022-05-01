@@ -1,4 +1,4 @@
-# Hola, soy Nacho Rapallo
+# Hello, I'm Nacho Rapallo
 
 ### I should say that I am a programmer, but I feel more identified with the word ***artisan***.
 
