@@ -2,9 +2,9 @@
 
 ### Debería decir que soy programador, pero me siento más identificado con la palabra *artesano*.
 
-### Como *<artesano de software>* escojo las herramientas de programación, los lenguajes y las librerías que se adapten a lo que necesito diseñar o implementar. En continuo aprendizaje, buscando las mejores herramientas que se adapten a lo que quiero construir.
+### Como *artesano de software* escojo las herramientas de programación, los lenguajes y las librerías que se adapten a lo que necesito diseñar o implementar. En continuo aprendizaje, buscando las mejores herramientas que se adapten a lo que quiero construir.
 
-### Me siento identificado con la definición original de la palabra *<Hacker>*: persona que disfruta con la exploración de los detalles de los sistemas programables y cómo aprovechar sus posibilidades, al contrario de aquellos que prefieren aprender solo lo imprescindible.
+### Me siento identificado con la definición original de la palabra *Hacker*: persona que disfruta con la exploración de los detalles de los sistemas programables y cómo aprovechar sus posibilidades, al contrario de aquellos que prefieren aprender solo lo imprescindible.
 
 ### Llevo más de 20 años programando en Javascript casi todos sus sabores: *Vanilla JS*, *ActionScript*, *CoffeeScript* y ahora *Typescript*.
 
