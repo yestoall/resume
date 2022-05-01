@@ -13,7 +13,8 @@
 ### También hago aplicaciones móviles con *React Native* y *expo*. Y aplicaciones de escritorio con *NW.js* o *Electron*.
 
 ### Me encanta la parte visual y el UI/UX. 
-Intento hacer cosas bonitas, simples en su usabilidad, y que funcionen.
+
+###Intento hacer cosas bonitas, simples en su usabilidad, y que funcionen.
 
 ### ¿Hablamos? nacho@yestoall.com
 
