@@ -4,6 +4,10 @@ i'm a developer, not a regular one
 
 i solve problems with creativity and craft digital solutions
 
+# MANIFIESTO
+
+bla, bla, bla...
+
 
 # speciality
 
