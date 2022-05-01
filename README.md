@@ -1,6 +1,6 @@
 # i'm nacho rapallo
 
-Debería decir que soy programador, pero me siento más identificado con la palabra **artesano.
+### Debería decir que soy programador, pero me siento más identificado con la palabra **artesano**.
 
 Como <artesano de software> escojo las herramientas de programación, los lenguajes y las librerías que se adapten a lo que necesito diseñar o implementar. 
 En continuo aprendizaje, buscando las mejores herramientas que se adapten a lo que quiero construir.
