@@ -8,9 +8,9 @@
 
 ### Llevo más de 20 años programando en Javascript casi todos sus sabores: *Vanilla JS*, *ActionScript*, *CoffeeScript* y ahora *Typescript*.
 
-### He pasado por [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), *Node* y ahora *React/Redux/Next* o *Svelte*.
+### He pasado por [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) y ahora [React/Redux/Next] o [Svelte].
 
-### También hago aplicaciones móviles con *React Native* y *expo*. Y aplicaciones de escritorio con *NW.js* o *Electron*.
+### También hago aplicaciones móviles con [React Native] y [expo]. Y aplicaciones de escritorio con [NW.js] o [Electron].
 
 ### Me encanta la parte visual y el UI/UX. 
 
