@@ -6,7 +6,7 @@
 
 ### I feel identified with the original definition of the word hacker: person who enjoys the exploration of the details of the programmable systems and how to take advantage of their possibilities, unlike those who prefer to learn only the essential.
 
-### I have testing all Javascript flavours: [Vanilla JS](http://vanilla-js.com), [ActionScript](https://es.wikipedia.org/wiki/ActionScript), [CoffeeScript](https://coffeescript.org) y ahora [Typescript](https://www.typescriptlang.org).
+### I have testing all Javascript flavours: [Vanilla JS](http://vanilla-js.com), [ActionScript](https://es.wikipedia.org/wiki/ActionScript), [CoffeeScript](https://coffeescript.org) and now [Typescript](https://www.typescriptlang.org).
 
 ### I've work with [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) y ahora [React](https://es.reactjs.org)/[Redux](https://es.redux.js.org)/[Next](https://nextjs.org) or [Svelte](https://svelte.dev).
 
