@@ -14,7 +14,7 @@
 
 ### Me encanta la parte visual y el UI/UX. 
 
-###Intento hacer cosas bonitas, simples en su usabilidad, y que funcionen.
+### Intento hacer cosas bonitas, simples en su usabilidad, y que funcionen.
 
 ### ¿Hablamos? nacho@yestoall.com
 
