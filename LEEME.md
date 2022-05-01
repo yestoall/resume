@@ -20,40 +20,40 @@
 
 
 
-# speciality
+# especializado
 
-{ now } mobile application developer, frontend, API design, scrapping, design
+{ ahora } aplicaciones móviles, frontend, diseño de API, scrapping, diseño
 
-{ old days } code animation, game developer, creative director
-
-
-# programming 
-
-{ now } javascript, node, php
-
-{ old days } ruby, actionscript, c/c++, delphi/pascal, visual basic, basic, assembler (z80/8088)
+{ antes } animación por código, juegos, dirección creativa
 
 
-# frameworks (and similar)
+# programación
 
-{ now } react, svelte, nextJS, firebase, graphQL, expo, electron, NW.js
+{ ahora } javascript, node, php
 
-{ old days } ruby on rails, ruby motion, angular, jquery
+{ antes } ruby, actionscript, c/c++, delphi/pascal, visual basic, basic, assembler (z80/8088)
 
 
-# databases
+# frameworks (y similares)
 
-{ now } firestore, couchDB/pouchDB, algolia
+{ ahora } react, svelte, nextJS, firebase, graphQL, expo, electron, NW.js
 
-{ old days } MongoDB, elasticsearch, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
+{ antes } ruby on rails, ruby motion, angular, jquery
+
+
+# bases de datos
+
+{ ahora } firestore, couchDB/pouchDB, algolia, graphQL
+
+{ antes } MongoDB, elasticsearch, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
 
 
 # tools
 
-{ now } node scripting, bash scripting (zx), scrapping (puppeteer), vscode, sketch, balsamiq mockups, iTerm
+{ ahora } node scripting, bash scripting (zx), scrapping (puppeteer), vscode, sketch, balsamiq mockups, iTerm
 
-{ old days } flash, photoshop, after effects, premiere, xcode
+{ antes } flash, photoshop, after effects, premiere, xcode
 
-# language
+# idiomas
 
-spanish & english
+español & inglés
