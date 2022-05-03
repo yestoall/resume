@@ -8,13 +8,13 @@
 
 ### I have tested all Javascript flavours: [Vanilla JS](http://vanilla-js.com), [ActionScript](https://es.wikipedia.org/wiki/ActionScript), [CoffeeScript](https://coffeescript.org) and [Typescript](https://www.typescriptlang.org) now.
 
-### I've worked with [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) y ahora [React](https://es.reactjs.org)/[Redux](https://es.redux.js.org)/[Next](https://nextjs.org) or [Svelte](https://svelte.dev).
+### I have worked with [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) and now [React](https://es.reactjs.org)/[Redux](https://es.redux.js.org)/[Next](https://nextjs.org) or [Svelte](https://svelte.dev).
 
-### I also make mobile applications with <a href="https://reactnative.dev" target="_blank">React Native</a> and <a href="https://expo.dev" target="_blank">expo</a>. And desktop applications with [NW.js](https://nwjs.io) o [Electron](https://www.electronjs.org).
+### I also make mobile applications with <a href="https://reactnative.dev" target="_blank">React Native</a> and <a href="https://expo.dev" target="_blank">expo</a>, also desktop applications with [NW.js](https://nwjs.io) o [Electron](https://www.electronjs.org).
 
 ### I love the UI/UX.
 
-### I try to do beautiful, simple things in their usability, that works.
+### I try to do simple beautiful things that work.
 
 ### Talk later? nacho@yestoall.com
 
