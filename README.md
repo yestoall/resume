@@ -1,58 +1,172 @@
-# Hello, I'm Nacho Rapallo
+# Hello, I'm Nacho Rapallo.
 
-### I should say that I am a programmer, but I feel more identified with the word ***artisan***.
+#### I should say that I am a programmer, but I feel more identified with the word **_artisan_**.
 
-### As a [software craftsman](https://en.wikipedia.org/wiki/Software_craftsmanship) I choose programming tools, languages and libraries that adapt to what I need to design or implement. In continuous learning, looking for the best tools that adapt to what I want to build.
+#### As a [software craftsman](https://en.wikipedia.org/wiki/Software_craftsmanship) I choose programming tools, languages and libraries that adapt to what I need to design or implement. In continuous learning, looking for the best tools that adapt to what I want to build.
 
-### I feel identified with the original definition of the word hacker: person who enjoys the exploration of the details of the programmable systems and how to take advantage of their possibilities, unlike those who prefer to learn only the essential.
+#### I feel identified with the original definition of the word hacker: person who enjoys the exploration of the details of the programmable systems and how to take advantage of their possibilities, unlike those who prefer to learn only the essential.
 
-### I have tested all Javascript flavours: [Vanilla JS](http://vanilla-js.com), [ActionScript](https://es.wikipedia.org/wiki/ActionScript), [CoffeeScript](https://coffeescript.org) and [Typescript](https://www.typescriptlang.org) now.
+#### I have tested all Javascript flavours: [Vanilla JS](http://vanilla-js.com), [ActionScript](https://es.wikipedia.org/wiki/ActionScript), [CoffeeScript](https://coffeescript.org) and [Typescript](https://www.typescriptlang.org) now.
 
-### I have worked with [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) and now [React](https://es.reactjs.org)/[Redux](https://es.redux.js.org)/[Next](https://nextjs.org) or [Svelte](https://svelte.dev).
+#### I have worked with [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) and now [React](https://es.reactjs.org)/[Redux](https://es.redux.js.org)/[Next](https://nextjs.org) or [Svelte](https://svelte.dev).
 
-### I also make mobile applications with <a href="https://reactnative.dev" target="_blank">React Native</a> and <a href="https://expo.dev" target="_blank">expo</a>, also desktop applications with [NW.js](https://nwjs.io) o [Electron](https://www.electronjs.org).
+#### I also make mobile applications with <a href="https://reactnative.dev" target="_blank">React Native</a> and <a href="https://expo.dev" target="_blank">expo</a>, also desktop applications with [NW.js](https://nwjs.io) o [Electron](https://www.electronjs.org).
 
-### I love the UI/UX.
+#### I love the UI/UX.
 
-### I try to do simple beautiful things that work.
+#### I try to do simple beautiful things that work.
 
-### Talk later? nacho@yestoall.com
+#### Talk later? nacho@yestoall.com
 
+---
 
-# speciality
+# Resume
 
-{ now } mobile application developer, frontend, API design, scrapping, design
+```js
+  {
+    who: "Nacho Rapallo",
+    where: "Madrid, Spain",
+    contact: "nacho@yestoall.com",
+    mobile: "(+34) 644350878"
+  }
+```
 
-{ old days } code animation, game developer, creative director
+### [page64.press](https://page64.press)
 
+```js
+  {
+    when: "2013 / now",
+    work: "founder / CTO",
+    skills: "NextJS, React, React-Native, NodeJS, Firebase, Ruby on Rails"
+    clients: "La Vanguardia, Pronto, Mundo Deportivo, Huffpost, Funke,Bauer Media Group, La Razón, El Periódico, Prensa Ibérica, TVguia, TVmovie, Prisa, Zapi, Agile..."
+  }
+```
 
-# programming 
+### [\*S,C,P,F...](http://www.scpf.com)
 
-{ now } javascript, node, php
+```js
+  {
+    when: "2007 / 2012",
+    work: "creative director",
+    skills: "Ruby on Rails, Javascript, ActionScript"
+    clients: "Vueling, Evax, Ikea, BMW, Nokia, Vodafone, VollDamm, Timeout, CocaCola, Pepsi, Ayuntamiento Barcelona..."
+  }
+```
 
-{ old days } ruby, actionscript, c/c++, delphi/pascal, visual basic, basic, assembler (z80/8088)
+### [Herraiz & Soto](https://www.herraizsoto.com)
 
+```js
+  {
+    when: "2006",
+    work: "developer",
+    skills: "PHP, HTML & CSS, Javascript, ActionScript (Flash)",
+    clients: "Viajes Barceló"
+  }
+```
 
-# frameworks (and similar)
+### [Estudio Mariscal](https://mariscal.com/)
 
-{ now } react, svelte, nextJS, firebase, graphQL, expo, electron, NW.js
+```js
+  {
+    when: "2004 / 2006",
+    work: "developer",
+    skills: "PHP, HTML & CSS, Javascript, ActionScript (Flash)",
+    clients: "Hoteles Silken, Javier Mariscal, Fernando Trueba Producciones, Copa America",
+  }
+```
 
-{ old days } ruby on rails, ruby motion, angular, jquery
+### [DoubleYou](http://www.doubleyou.com)
 
+```js
+  {
+    when: "1999 / 2003",
+    work: "technical & creative director",
+    skills: "PHP, HTML & CSS, Javascript, ActionScript (Flash)",
+    clients: "Zara, San Miguel, Mahou, Audi, Seat, Remo, Aldeasa",
+  }
+```
 
-# databases
+### Icon Medialab
 
-{ now } firestore, couchDB/pouchDB, algolia, graphQL, prisma
+```js
+  {
+    when: "1998 / 1999",
+    work: "developer",
+    skills: "PHP, HTML & CSS, Javascript",
+    clients: "Opel, Telemadrid, CocaCola, Telecinco",
+  }
+```
 
-{ old days } MongoDB, elasticsearch, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
+### Webmedia
 
+```js
+  {
+    when: "1997 / 1998",
+    work: "web programmer",
+    skills: "ASP, PHP, HTML & CSS, Javascript, Macromedia Director",
+    clients: "Nestlé, Camel, Opel",
+  }
+```
 
-# tools
+### Erbe Software
 
-{ now } node scripting, bash scripting (zx), scrapping (puppeteer), vscode, sketch, balsamiq mockups, iTerm
+```js
+  {
+    when: "1995 - 1996",
+    work: "programmer, games & interactive CDroms",
+    skills: "Visual Basic / Delphi",
+  }
+```
 
-{ old days } flash, photoshop, after effects, premiere, xcode
+---
 
-# language
+# Speciality
 
-spanish & english
+```js
+  {
+    present: "Mobile Application Developer, Frontend, API design, Scrapping, Design, Creativity",
+    past: "Code animation, Game developer"
+  }
+```
+
+# Programming
+
+```js
+  {
+    present: "Javascript/Typescript, PHP",
+    past: "Ruby, Actionscript, C/C++, Delphi/Pascal, Visual Basic, Basic, Assembler (z80/8088)"
+  }
+```
+
+# Frameworks (and similar)
+
+```js
+  {
+    present: "React, ReactNative, Svelte, Expo, NextJS, Supabase, Firebase, GraphQL, Electron, NWjs",
+    past: "Ruby on Rails, RubyMotion, Angular, JQuery"
+  }
+```
+
+# Databases
+
+```js
+  {
+    present: "Firestore, Supabase, PostgreSQL, CouchDB/PouchDB, Algolia, GraphQL, prisma",
+    past: "MongoDB, ElasticSearch, SQLlite/MySQL, SQLserver, DBase"
+  }
+```
+
+# Tools
+
+```js
+  {
+    present: "Node scripting, Bash scripting (zx), Scrapping (puppeteer), VScode, Sketch, Balsamiq mockups, iTerm",
+    past: "Flash, Photoshop, After Effects, Premiere, Xcode"
+  }
+```
+
+# Language
+
+```js
+languages: ["Spanish", "English"]
+```
