@@ -12,7 +12,7 @@
 
 #### I also make mobile applications with <a href="https://reactnative.dev" target="_blank">React Native</a> and <a href="https://expo.dev" target="_blank">expo</a>, also desktop applications with [NW.js](https://nwjs.io) o [Electron](https://www.electronjs.org).
 
-#### I love the UI/UX.
+#### I love the UI/UX.<br>I like to prototype my designs with [Sketch](https://www.sketch.com) y [Framer](https://www.framer.com/).
 
 #### I try to do simple beautiful things that work.
 
@@ -58,7 +58,7 @@
 ```js
   {
     when: "2006",
-    work: "developer",
+    work: "senior developer",
     skills: "PHP, HTML & CSS, Javascript, ActionScript (Flash)",
     clients: "Viajes Barceló"
   }
@@ -69,7 +69,7 @@
 ```js
   {
     when: "2004 / 2006",
-    work: "developer",
+    work: "senior developer",
     skills: "PHP, HTML & CSS, Javascript, ActionScript (Flash)",
     clients: "Hoteles Silken, Javier Mariscal, Fernando Trueba Producciones, Copa America",
   }
@@ -104,7 +104,7 @@
     when: "1997 / 1998",
     work: "web programmer",
     skills: "ASP, PHP, HTML & CSS, Javascript, Macromedia Director",
-    clients: "Nestlé, Camel, Opel",
+    clients: "Nestlé, Camel, Opel, CocaCola",
   }
 ```
 
@@ -168,5 +168,5 @@
 # Language
 
 ```js
-languages: ["Spanish", "English"]
+languages: ["Spanish", "English"];
 ```

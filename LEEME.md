@@ -12,7 +12,7 @@
 
 #### También hago aplicaciones móviles con <a href="https://reactnative.dev" target="_blank">React Native</a> y <a href="https://expo.dev" target="_blank">expo</a>. Y aplicaciones de escritorio con [NW.js](https://nwjs.io) o [Electron](https://www.electronjs.org).
 
-#### Me encanta la parte visual y el UI/UX.
+#### Me encanta la parte visual y el UI/UX.<br>Me gusta prototipar las cosas que diseño con [Sketch](https://www.sketch.com) y [Framer](https://www.framer.com/).
 
 #### Intento hacer cosas bonitas, simples de usar, y que funcionen.
 
@@ -26,7 +26,7 @@
   {
     who: "Nacho Rapallo",
     where: "Madrid, Spain",
-    contact: "nacho@yestoall.com
+    contact: "nacho@yestoall.com"
   }
 ```
 
@@ -57,7 +57,7 @@
 ```js
   {
     when: "2006",
-    work: "developer",
+    work: "senior developer",
     skills: "PHP, HTML & CSS, Javascript, ActionScript (Flash)",
     clients: "Viajes Barceló"
   }
@@ -68,7 +68,7 @@
 ```js
   {
     when: "2004 / 2006",
-    work: "developer",
+    work: "senior developer",
     skills: "PHP, HTML & CSS, Javascript, ActionScript (Flash)",
     clients: "Hoteles Silken, Javier Mariscal, Fernando Trueba Producciones, Copa America",
   }
