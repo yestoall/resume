@@ -145,7 +145,7 @@
 
 # Tools
 
-{ ahora } node scripting, bash scripting (zx), scrapping (puppeteer), vscode, sketch, balsamiq mockups, iTerm
+{ ahora } node scripting, bash scripting (zx), scrapping (puppeteer), vscode, sketch, framer, balsamiq mockups, iTerm
 
 { antes } flash, photoshop, after effects, premiere, xcode
 
