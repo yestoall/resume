@@ -142,7 +142,7 @@
 
 ```js
   {
-    present: "React, ReactNative, Svelte, Expo, NextJS, Supabase, Firebase, GraphQL, Electron, NWjs",
+    present: "React, ReactNative, Svelte, Expo, NextJS, Supabase, Firebase, GraphQL, Electron, NWjs, xState",
     past: "Ruby on Rails, RubyMotion, Angular, JQuery"
   }
 ```
@@ -151,7 +151,7 @@
 
 ```js
   {
-    present: "Firestore, Supabase, PostgreSQL, CouchDB/PouchDB, Algolia, GraphQL, prisma",
+    present: "Firestore, Supabase, PostgreSQL, CouchDB/PouchDB, Algolia, GraphQL, prisma, tRPC",
     past: "MongoDB, ElasticSearch, SQLlite/MySQL, SQLserver, DBase"
   }
 ```

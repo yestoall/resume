@@ -127,19 +127,19 @@
 
 # Programación
 
-{ ahora } javascript, node, php
+{ ahora } javascript/typescript, node, php
 
 { antes } ruby, actionscript, c/c++, delphi/pascal, visual basic, basic, assembler (z80/8088)
 
 # Frameworks (y similares)
 
-{ ahora } react, svelte, nextJS, firebase, graphQL, expo, electron, NW.js
+{ ahora } react, svelte, nextJS, firebase, graphQL, expo, electron, NW.js, xState
 
 { antes } ruby on rails, ruby motion, angular, jquery
 
 # Bases de datos
 
-{ ahora } firestore, couchDB/pouchDB, algolia, graphQL
+{ ahora } firestore, couchDB/pouchDB, algolia, graphQL, prisma, tRPC
 
 { antes } MongoDB, elasticsearch, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
 
