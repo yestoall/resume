@@ -36,7 +36,7 @@
   {
     when: "2022 / now",
     work: "software technical lead",
-    skills: "NextJS, React, React-Native, NodeJS/Bun, Redis, SQL Server, Linux Admin"
+    skills: "NextJS, React, React-Native/Expo, NodeJS/Bun, Typescript, Redis, SQL Server, Linux Admin"
   }
 ```
 
@@ -47,7 +47,7 @@
     when: "2013 / now",
     work: "founder / CTO",
     skills: "NextJS, React, React-Native, NodeJS, Firebase, Ruby on Rails"
-    clients: "La Vanguardia, Pronto, Mundo Deportivo, Huffpost, Funke,Bauer Media Group, La Razón, El Periódico, Prensa Ibérica, TVguia, TVmovie, Prisa, Zapi, Agile..."
+    clients: "La Vanguardia, Pronto, Mundo Deportivo, Huffpost, Funke, Bauer Media Group, La Razón, El Periódico, Prensa Ibérica, TVguia, TVmovie, Prisa, Zapi, Agile..."
   }
 ```
 
