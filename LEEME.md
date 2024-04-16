@@ -30,6 +30,16 @@
   }
 ```
 
+### [tervalis](https://tervalis.com)
+
+```js
+  {
+    when: "2022 / now",
+    work: "software technical lead",
+    skills: "NextJS, React, React-Native, NodeJS/Bun, Redis, SQL Server, Linux Admin"
+  }
+```
+
 ### [page64.press](https://page64.press)
 
 ```js
