@@ -36,7 +36,8 @@
   {
     when: "2022 / now",
     work: "software technical lead",
-    skills: "NextJS, React, React-Native/Expo, NodeJS/Bun, Typescript, Redis, SQL Server, Linux Admin"
+    skills: "NextJS, React, React-Native/Expo, NodeJS/Bun, Typescript, Redis, SQL Server, Linux Admin",
+    tasks: "Transformación digital: creación de multiples aplicaciones para mejorar procesos internos de la compañía",
   }
 ```
 
@@ -149,15 +150,15 @@
 
 # Bases de datos
 
-{ ahora } firestore, couchDB/pouchDB, algolia, graphQL, prisma, tRPC
+{ ahora } redis, SQLite, firestore, couchDB/pouchDB, algolia, graphQL, prisma, tRPC, supabase, turso
 
-{ antes } MongoDB, elasticsearch, PostgreSQL, SQLlite/MySQL, SQLserver, dbase
+{ antes } MongoDB, elasticsearch, PostgreSQL, MySQL, SQLserver, dbase
 
 # Tools
 
-{ ahora } node scripting, bash scripting (zx), scrapping (puppeteer), vscode, sketch, framer, balsamiq mockups, iTerm
+{ ahora } node, bash scripting (zx), bun, notion, tldraw, scrapping (puppeteer), vscode, sketch, Warp, reMarkable, Figma, eraser.io
 
-{ antes } flash, photoshop, after effects, premiere, xcode
+{ antes } flash, photoshop, after effects, premiere, xcode, framer, iTerm, balsamiq mockups, 
 
 # Idiomas
 
