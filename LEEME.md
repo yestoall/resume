@@ -10,7 +10,8 @@
 
 #### He pasado por [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) y ahora [React](https://es.reactjs.org)/[NextJS](https://nextjs.org) o [Svelte](https://svelte.dev).
 
-#### También hago aplicaciones móviles con <a href="https://reactnative.dev" target="_blank">React Native</a> y <a href="https://expo.dev" target="_blank">expo</a>. Y aplicaciones de escritorio con [NW.js](https://nwjs.io) o [Electron](https://www.electronjs.org).
+#### También hago aplicaciones móviles con <a href="https://reactnative.dev" target="_blank">React Native</a> y <a href="https://expo.dev" target="_blank">expo</a> tanto para android como iOS.
+Y aplicaciones de escritorio con [NW.js](https://nwjs.io) o [Electron] (https://www.electronjs.org).
 
 #### Me encanta la parte visual y el UI/UX.<br>Me gusta prototipar las cosas que diseño con Sketch, Figma o tldraw.
 #### Intento hacer cosas bonitas, simples de usar, y que funcionen.
