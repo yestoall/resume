@@ -19,7 +19,7 @@
 
 ---
 
-# 2024 Mi actual forma de trabajar favorita:
+# 2024 mi stack favorito:
 
 ```js
   {
