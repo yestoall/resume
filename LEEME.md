@@ -26,7 +26,7 @@
     frontend: ["Typescript", "NextJS 14/15", "React 18/19", "NextUI", "Zustand", "TailwindCSS", "zod", "framermotion"],
     backend: ["Redis", "SQLite", "PostgreSQL", "Vercel", "Supabase"],
     editor: "Visual Studio Code",
-    tools: ["Notion", "Sketch", "Figma", "]
+    tools: ["Notion", "tldraw", "Sketch", "Figma"],
     browser: ["Arc", "Brave", "Safari"],
     os: ["MacOS", "Linux"]
   }
