@@ -8,7 +8,7 @@
 
 #### Llevo más de 20 años programando en Javascript casi todos sus sabores: [Vanilla JS](http://vanilla-js.com), [ActionScript](https://es.wikipedia.org/wiki/ActionScript), [CoffeeScript](https://coffeescript.org) y ahora [Typescript](https://www.typescriptlang.org).
 
-#### He pasado por [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) y ahora [React](https://es.reactjs.org)/[Redux](https://es.redux.js.org)/[Next](https://nextjs.org) o [Svelte](https://svelte.dev).
+#### He pasado por [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) y ahora [React](https://es.reactjs.org)/[NextJS](https://nextjs.org) o [Svelte](https://svelte.dev).
 
 #### También hago aplicaciones móviles con <a href="https://reactnative.dev" target="_blank">React Native</a> y <a href="https://expo.dev" target="_blank">expo</a>. Y aplicaciones de escritorio con [NW.js](https://nwjs.io) o [Electron](https://www.electronjs.org).
 
@@ -18,6 +18,19 @@
 #### ¿Hablamos? <nacho@yestoall.com>
 
 ---
+
+# 2024 Mi actual forma de trabajar favorita:
+
+```js
+  {
+    frontend: ["Typescript", "NextJS 14/15", "React 18/19", "NextUI", "Zustand", "TailwindCSS", "zod", "framermotion"],
+    backend: ["Redis", "SQLite", "PostgreSQL", "Vercel", "Supabase"],
+    editor: "Visual Studio Code",
+    tools: ["Notion", "Sketch", "Figma", "]
+    browser: ["Arc", "Brave", "Safari"],
+    os: ["MacOS", "Linux"]
+  }
+```
 
 # Curriculum Vitae
 
