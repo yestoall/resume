@@ -46,7 +46,7 @@
 
 ```js
   {
-    when: "2022 / now",
+    when: "2022 / 2024",
     work: "software technical lead",
     skills: "NextJS, React, React-Native/Expo, NodeJS/Bun, Typescript, Redis, SQL Server, Linux Admin",
     tasks: "Transformación digital: creación de multiples aplicaciones para mejorar procesos internos de la compañía",
