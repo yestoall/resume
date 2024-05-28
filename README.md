@@ -8,17 +8,30 @@
 
 #### I have tested all Javascript flavours: [Vanilla JS](http://vanilla-js.com), [ActionScript](https://es.wikipedia.org/wiki/ActionScript), [CoffeeScript](https://coffeescript.org) and [Typescript](https://www.typescriptlang.org) now.
 
-#### I have worked with [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) and now [React](https://es.reactjs.org)/[Redux](https://es.redux.js.org)/[Next](https://nextjs.org) or [Svelte](https://svelte.dev).
+#### I have worked with [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby on Rails](https://rubyonrails.org), [Node](https://nodejs.org/es/) and now [React](https://es.reactjs.org)/[NextJS](https://nextjs.org) or [Svelte](https://svelte.dev).
 
 #### I also make mobile applications with <a href="https://reactnative.dev" target="_blank">React Native</a> and <a href="https://expo.dev" target="_blank">expo</a>, also desktop applications with [NW.js](https://nwjs.io) o [Electron](https://www.electronjs.org).
 
-#### I love the UI/UX.<br>I like to prototype my designs with [Sketch](https://www.sketch.com) y [Framer](https://www.framer.com/).
+#### I love the UI/UX.<br>I like to prototype my designs with [Sketch](https://www.sketch.com) y [Figma](https://www.figma.com/).
 
 #### I try to do simple beautiful things that work.
 
 #### Talk later? nacho@yestoall.com
 
 ---
+
+# 2024 Current Favorite Stack
+
+```js
+  {
+    frontend: ["Typescript", "NextJS 14/15", "React 18/19", "NextUI", "Zustand", "TailwindCSS", "zod", "framermotion"],
+    backend: ["Redis", "SQLite", "PostgreSQL", "Vercel", "Supabase"],
+    editor: "Visual Studio Code",
+    tools: ["Notion", "Sketch", "Figma", "]
+    browser: ["Arc", "Brave", "Safari"],
+    os: ["MacOS", "Linux"]
+  }
+```
 
 # Resume
 
@@ -39,6 +52,16 @@
     work: "founder / CTO",
     skills: "NextJS, React, React-Native, NodeJS, Firebase, Ruby on Rails"
     clients: "La Vanguardia, Pronto, Mundo Deportivo, Huffpost, Funke,Bauer Media Group, La Razón, El Periódico, Prensa Ibérica, TVguia, TVmovie, Prisa, Zapi, Agile..."
+  }
+```
+
+### [Tervalis](https://tervalis.com)
+
+```js
+  {
+    when: "2022 / 2024",
+    work: "Software Technical Lead",
+    skills: "NextJS 13/14, React, React-Native / Expo, Redis"
   }
 ```
 
